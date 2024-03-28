@@ -1,1 +1,2 @@
 # Customer-Churn-Prediction
+This report presents an analysis of customer churn prediction using machine learning techniques for a US telecommunication service. The objective of the report is to identify factors that influence customer churn, build predictive models to accurately forecast churn behaviour as well as establish target customer profile and provide some recommendations to their proactive churn-management program.
